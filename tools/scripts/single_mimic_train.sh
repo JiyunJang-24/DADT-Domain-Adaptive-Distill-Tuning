@@ -1,0 +1,1 @@
+python train_mimic.py --workers 0 --batch_size 2 --cfg_file cfgs/waymo_models/pv_rcnn_plusplus_resnet_3%waymo.yaml --pretrained_model ../pre_trained/once_1M_ckpt.pth --pretrained_teacher_model ../pre_trained/once_1M_ckpt.pth --fix_random_seed --teacher_tag 32

@@ -1,0 +1,1 @@
+python test.py --workers 0 --batch_size 1 --cfg_file cfgs/waymo_models/pv_rcnn_plusplus_resnet_3%waymo.yaml --ckpt ../output/waymo_models/pv_rcnn_plusplus_resnet_3%waymo/1%flipaug_pvrcnn/ckpt/checkpoint_epoch_30.pth

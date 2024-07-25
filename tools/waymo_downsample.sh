@@ -1,0 +1,1 @@
+python downsample_waymo_data.py --int-list 0,200

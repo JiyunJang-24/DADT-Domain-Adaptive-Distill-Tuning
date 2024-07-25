@@ -1,0 +1,1 @@
+python train.py --cfg_file cfgs/waymo_models/pv_rcnn_plusplus_resnet_3%waymo.yaml --pretrained_model ../pre_trained/once_1M_ckpt.pth --extra_tag test --workers 0 --batch_size 1

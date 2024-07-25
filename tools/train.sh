@@ -1,0 +1,1 @@
+bash scripts/dist_mimic_train.sh 
